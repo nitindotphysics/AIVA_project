@@ -1,0 +1,9 @@
+git+https://github.com/openai/whisper.git
+langchain-ollama
+torch
+transformers
+git+https://github.com/huggingface/parler-tts.git
+soundfile
+sounddevice
+keyboard
+streamlit
